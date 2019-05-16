@@ -1,0 +1,12 @@
+{
+  "name": "js-and-regex-backreferences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Edward",
+  "license": "ISC"
+}
